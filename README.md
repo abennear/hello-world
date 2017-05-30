@@ -1,2 +1,4 @@
 # hello-world
-this isthe hello world repository to go with the walk through
+this is the hello world repository to go with the walk through
+
+I am a meat popsicle
